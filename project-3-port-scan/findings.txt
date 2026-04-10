@@ -1,0 +1,7 @@
+Created a custom Snort rule to detect TCP SYN packets.
+
+Executed a port scan using nmap, which generated multiple SYN packets.
+
+Snort triggered multiple alerts indicating scanning behavior.
+
+This demonstrates detection of reconnaissance activity in the network.
