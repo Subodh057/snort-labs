@@ -1,0 +1,9 @@
+Snort was used to monitor live network traffic.
+
+During monitoring, Snort generated alerts for UPnP malformed advertisement traffic.
+
+This traffic originated from local network devices and was broadcast to the network.
+
+The alerts demonstrate how Snort can detect unusual or potentially suspicious patterns in real time.
+
+Normal traffic such as ping and DNS queries did not generate alerts, showing that Snort only flags predefined suspicious activity.
