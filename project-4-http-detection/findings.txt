@@ -1,0 +1,7 @@
+Created a Snort rule to detect high-frequency HTTP traffic.
+
+Generated multiple HTTP requests in a short time using curl.
+
+Snort triggered alerts when the number of requests exceeded the defined threshold.
+
+This demonstrates detection of automated or bot-like behavior in web traffic.
