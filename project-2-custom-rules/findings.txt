@@ -1,0 +1,5 @@
+Created a custom Snort rule to detect ICMP traffic.
+
+After generating ping traffic, Snort produced alerts with the message "Ping Detected".
+
+This demonstrated how Snort rules can be created to monitor and detect specific network activity.
